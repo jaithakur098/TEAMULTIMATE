@@ -1,6 +1,6 @@
 (function () {
   const ham = document.getElementById('hamburger');
-  const drawer = document.getElementById('mobileMenu');
+  const drawer = document.getElementById('drawer');
 
   if (ham && drawer) {
     ham.addEventListener('click', () => {
